@@ -1,0 +1,3 @@
+ const word = "skateboard"; //Don't change this line!
+
+const facialHair = word.slice(5,10).replace('o', 'e')
