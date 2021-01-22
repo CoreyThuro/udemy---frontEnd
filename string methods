@@ -1,0 +1,4 @@
+const message = "    TASTE THE RAINBOW!  "; //DON'T 
+
+
+const whisper = message.trim().toLowerCase()
