@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emmet Demo</title>
+</head>
+<body>
+    <main>
+        //nesting
+        <section>
+            <h1>
+                <ul>
+                    <li></li>
+                </ul>
+        </h1>
+        </section>
+        //siblings
+        <h1></h1>
+        <h2></h2>
+        <h2></h2>
+
+    </main>
+    //multiplication
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+
+    //input text
+    <a href="">click me</a>
+    <a href="">click me</a>
+    <a href="">click me</a>
+    <a href="">click me</a>
+    <a href="">click me</a>
+
+    //numbering
+    <nav>
+        <ul>
+            <li>
+                <a1></a1>
+            </li>
+            <li>
+                <a2></a2>
+            </li>
+            <li>
+                <a3></a3>
+            </li>
+            <li>
+                <a4></a4>
+            </li>
+            <li>
+                <a5></a5>
+            </li>
+        </ul>
+    </nav>
+</body>
+</html>
