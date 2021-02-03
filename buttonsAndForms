@@ -1,0 +1,33 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Demo</title>
+</head>
+<body>
+    <button>Outside of Form Button</button>
+    <h1>Forms Demo</h1>
+    <form action="/table">
+        
+        <p>
+            <label for="username">Enter Username:</label>
+            <input type="text" id="username" placeholder="name">
+        </p>
+        <p>
+            <label for="password">Enter Password:</label>
+            <input type="password" id="password" placeholder="password">
+        </p>
+        <p>
+            <label for="color">Choose Color:</label>
+            <input id="color" type="color">
+        </p>
+        <p>
+        <label for="number">Pick a number:</label>
+        <input type="number" id="number" placeholder="number">
+        </p>
+        <button>Submit</button>
+        <input type="submit" value="Click Me!">
+    </form>
+</body>
+</html>
