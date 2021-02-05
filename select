@@ -1,0 +1,6 @@
+<label for="meal">Select an entree</label>
+            <select name="meal" id="meal">
+                <option value="fish">Fish</option>
+                <option value="veg" selected>Vegetarian</option>
+                <option value="steak">steak</option>
+            </select>
