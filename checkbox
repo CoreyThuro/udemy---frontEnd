@@ -1,0 +1,5 @@
+  <h2>More inputs</h2>
+    <form action="/motors">
+        <label for="agree">I agree to this</label>
+        <input type="checkbox" name="agree_tos" id="agree" checked>
+    </form>
