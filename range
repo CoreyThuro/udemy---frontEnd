@@ -1,0 +1,5 @@
+<p>
+      <label for="cheese">Amount of Cheese:</label>
+      <input type="range" name="cheeseLevel" id="cheese" min="1" value="65" max="100" step="5">
+  </p>
+        <button>Submit</button>
