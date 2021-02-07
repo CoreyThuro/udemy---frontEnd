@@ -1,0 +1,15 @@
+      <h2>Validations Demo</h2>
+    <form action="/dummy">
+        <label for=first>Enter first name</label>
+        <input type="text" name="first" id="first" required >
+        <p>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" minlength="5" maxlength="20" required>
+       </p>
+       <p>
+           <label for="email">email</label>
+           <input type="email" name="email" id="email" required>
+           <input type="url"> 
+       </p>
+        <button>Submit</button>
+    </form>
