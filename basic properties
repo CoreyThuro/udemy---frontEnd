@@ -1,0 +1,13 @@
+h1 {
+    color: teal;
+    background-color: darkorchid;
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: wheat;
+}
