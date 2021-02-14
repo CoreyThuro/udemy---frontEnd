@@ -1,0 +1,7 @@
+.post a {
+    color: #1d3557
+}
+
+footer a {
+    color: red
+}
