@@ -1,0 +1,11 @@
+h1 {
+    text-align: right;
+    width: 50%
+}
+
+p {
+    text-align: right;
+    font-weight: normal;
+    text-decoration: line-through;
+    
+}
