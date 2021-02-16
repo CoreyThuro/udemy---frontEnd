@@ -1,0 +1,3 @@
+.post:nth-of-type(2n) {
+    background-color: #dfe8dc;
+}
