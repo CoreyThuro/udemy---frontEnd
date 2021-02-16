@@ -1,0 +1,4 @@
+.post button:hover {
+    background-color: #e63946;
+    color: #f1faee;
+}
