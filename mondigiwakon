@@ -1,0 +1,7 @@
+#three {
+background-color: #A57F60;
+border: 4px solid black;
+border-right: 12px double;
+box-sizing: border-box;
+border-radius: 24% 42%;
+}
