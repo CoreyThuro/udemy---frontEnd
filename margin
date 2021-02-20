@@ -1,0 +1,12 @@
+#two {
+background-color: #E8AE68;
+border-color: rgb(255, 174, 255);
+border-width: 5px;
+border-style: dashed;
+box-sizing: border-box;
+border-left-color: blue;
+border-left-width: 9;
+border-left-style: solid;
+padding-left: 50px;
+margin: 200px;
+}
