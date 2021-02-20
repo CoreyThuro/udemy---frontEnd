@@ -1,0 +1,10 @@
+h1 {
+ background-color: indianred;
+ width: 200px;   
+ padding-left: 130px;
+ padding-top: 50px;
+}
+
+button {
+    padding: 10px 20px 30px 40px;
+}
