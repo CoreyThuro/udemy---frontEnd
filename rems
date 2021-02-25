@@ -1,0 +1,10 @@
+
+#rems h2{
+    font-size: 3rem;
+}
+#rems h2{
+    font-size: 2rem;
+}
+#rems ul{
+    font-size: 2rem;
+}
