@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Fonts</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">    
+    <link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <main>
+        <h1>Google Fonts</h1>
+        <h2>Subheading here</h2>
+
+        <h3>blsdfsjkf</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia fugiat aut dolores officia porro ipsam illo minus error explicabo placeat ab, hic cumque vitae alias repellat cupiditate magni doloremque perspiciatis.</p>
+
+        <h3>fdgdkfjaksd</h3>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi placeat quisquam adipisci eaque accusamus aliquid minima non in excepturi! Nam error excepturi exercitationem itaque amet reprehenderit laboriosam sed unde eaque?</p>
+    </main>
+</body>
+</html>
