@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Basics</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Placeholder</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis harum temporibus provident repellat animi laudantium. Maxime, sint. Molestiae consectetur, excepturi ab laudantium delectus harum nostrum commodi fugit, maiores, at dolor.
+        Consectetur, quae! Modi, id iusto vero maxime eligendi voluptatum cumque earum odio sequi, error facere temporibus soluta est tenetur odit alias? Quas nisi vitae quae temporibus! Obcaecati minima pariatur debitis.
+        Vero totam ab itaque animi non omnis possimus dolores. Temporibus alias quae ab fuga nam doloribus dignissimos veniam nobis dolor quis minima, ad consectetur consequuntur placeat ratione velit sit dolorum.
+        Laborum unde dolorem hic facilis suscipit sequi ipsum ipsa voluptatibus corporis, dolor quisquam blanditiis dolores reprehenderit aperiam asperiores eaque consequuntur consequatur possimus harum. Maiores libero eos ullam sunt sequi deleniti!</p>
+   </div>
+
+   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+</body>
+
+</html>
